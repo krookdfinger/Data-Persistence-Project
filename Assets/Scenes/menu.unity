@@ -1075,7 +1075,7 @@ MonoBehaviour:
   playerInputField: {fileID: 551128078}
   bestScoreText: {fileID: 2105219131}
   CurrentPlayerName: 
-  HighScore: 0
+  m_HighScore: 0
 --- !u!4 &962896027
 Transform:
   m_ObjectHideFlags: 0
@@ -1672,7 +1672,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -528.07196, y: 0, z: -538.2205, w: 0}
+  m_margin: {x: -552.22235, y: 0, z: -554.94, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
